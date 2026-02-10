@@ -8,15 +8,15 @@ This project analyzes wheat farming profitability using a Kaggle dataset. The wo
 
 ## 📂 Files in this Repository
 
-data/wheat_raw.csv → Raw dataset
+data/final_Wheat_data.csv → Raw dataset
 
-data/wheat_cleaned.csv → Cleaned dataset
+data/Wheat_cleaned_dataset.xlsx → Cleaned dataset
 
-notebooks/eda_analysis.ipynb → EDA & feature engineering
+notebooks/cleaning.ipynb → EDA & feature engineering
 
-notebooks/model_training.ipynb → Lasso model training
+notebooks/prediction.ipynb → Lasso model training
 
-report/Project_Report.pdf → Final project report
+report/Wheat Report.pdf → Final project report
 
 ## 📊 Key Insights
 
